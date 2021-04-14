@@ -23,7 +23,7 @@ public class CheckStringPermutOfAnotherString {
 		String s2 = "scita";
 		boolean isPermutation = csp.isPermuation(s1, s2);
 		
-		LOG.info("isPermutation", isPermutation);
+		LOG.info("isPermutation..", isPermutation);
 	}
 	
 	public boolean isPermuation(String s1, String s2) {
