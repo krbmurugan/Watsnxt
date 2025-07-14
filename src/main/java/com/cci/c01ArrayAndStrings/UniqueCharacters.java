@@ -23,6 +23,9 @@ public class UniqueCharacters {
 			if(chars[charInt]) return false;
 			else chars[charInt]=true;
 		}
+		System.out.println(
+			"test"
+		)
 		
 		return true;
 	}
