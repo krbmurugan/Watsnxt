@@ -27,7 +27,7 @@ public class UniqueCharacters {
 			"test"
 		);
 
-		System.out.println("This will be another change..");
+		System.out.println("This will be another change...");
 		
 		return true;
 	}
