@@ -9,6 +9,7 @@ def main():
     math_ops = MathOperations()
     print("Addition:", math_ops.add(5, 3))
     print("Subtraction:", math_ops.sub(5, 3))
+    print('Adding new ', math_ops.add(2, 4))
 
 if __name__ == "__main__":
     main()
